@@ -41,11 +41,11 @@
 }
 gallery .mainImg i.fa-chevron-left {
   left: 0;
- color: white;
+ color: #FFF;
 }
 .gallery .mainImg i.fa-chevron-right {
   right: 0; 
-  color: black;
+  color: #FFF;
 }
 .gallery .thumbnails {
   list-style: none;
