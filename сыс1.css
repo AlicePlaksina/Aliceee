@@ -40,11 +40,11 @@
   -moz-transform: translateY(-50%);
   transform: translateY(-50%);
   cursor: pointer;
-}gallery .mainImg i.fa-chevron-left {
+}gallery .mainImg i.fa-chevron-circle-left {
   left: 0;
  color: black;
 }
-.gallery .mainImg i.fa-chevron-right {
+.gallery .mainImg i.fa-chevron-circle-right {
   right: 0; 
   color: black;
 }
