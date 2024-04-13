@@ -42,7 +42,7 @@
   cursor: pointer;
 }gallery .mainImg i.fa-chevron-circle-left {
   left: 0;
- color: black;
+ color: white;
 }
 .gallery .mainImg i.fa-chevron-circle-right {
   right: 0; 
