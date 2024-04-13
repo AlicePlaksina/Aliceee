@@ -40,11 +40,11 @@
   cursor: pointer;
 }gallery .mainImg i.fa-chevron-left {
   left: 0;
- color: black;
+ color: red;
 }
 .gallery .mainImg i.fa-chevron-right {
   right: 0; 
-  color: black;
+  color: red;
 }
 .gallery .thumbnails {
   list-style: none;
