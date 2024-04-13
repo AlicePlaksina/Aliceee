@@ -38,7 +38,8 @@
   -moz-transform: translateY(-50%);
   transform: translateY(-50%);
   cursor: pointer;
-}gallery .mainImg i.fa-chevron-left {
+}
+gallery .mainImg i.fa-chevron-left {
   left: 0;
  color: red;
 }
