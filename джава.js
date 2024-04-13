@@ -6,7 +6,7 @@ $(function () {
     $('.mainImg img').hide().attr('src', $(this).attr('src')).fadeIn(300);
   });
   $('.mainImg i').click(function () {    
-    if ($(this).hasClass('fa-chevron-right')) {
+    if ($(this).hasClass('fa-chevron-circle-right')) {
       console.log('right');
       if ($('.thumbnails .active').parent().is(':last-of-type')) {
         $('.thumbnails .active').parent().parent().find('li:eq(0)').find('img').click();
